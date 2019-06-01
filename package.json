@@ -1,6 +1,9 @@
 {
-  "name": "ZEIT Integration",
+  "name": "my-ui-hook",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/integration-utils": "latest"
+  }
 }
